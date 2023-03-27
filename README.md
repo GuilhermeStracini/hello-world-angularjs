@@ -1,2 +1,3 @@
-# hello-world-angularjs
-A repository to learn AngularJS
+# Hello World AngularJS
+
+:books: A repository to learn AngularJS
