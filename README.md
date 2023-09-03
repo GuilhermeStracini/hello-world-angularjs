@@ -1,6 +1,6 @@
 # Hello World AngularJS
 
-:books: A repository to learn AngularJS
+:books: A repository to learn [AngularJS](https://angularjs.org/) and [Angular](https://angular.io/)
 
 [![wakatime](https://wakatime.com/badge/github/GuilhermeStracini/hello-world-angularjs.svg)](https://wakatime.com/badge/github/GuilhermeStracini/hello-world-angularjs)
 [![Maintainability](https://api.codeclimate.com/v1/badges/0bfc92d34eac8cc0b9de/maintainability)](https://codeclimate.com/github/GuilhermeStracini/hello-world-angularjs/maintainability)
