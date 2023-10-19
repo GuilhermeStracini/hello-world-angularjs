@@ -8,3 +8,4 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/GuilhermeStracini/hello-world-angularjs/badge)](https://www.codefactor.io/repository/github/GuilhermeStracini/hello-world-angularjs)
 [![GitHub license](https://img.shields.io/github/license/GuilhermeStracini/hello-world-angularjs)](https://github.com/GuilhermeStracini/hello-world-angularjs)
 [![GitHub last commit](https://img.shields.io/github/last-commit/GuilhermeStracini/hello-world-angularjs)](https://github.com/GuilhermeStracini/hello-world-angularjs)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/0b0d214a673e4f3f98c3958f12a2d66b)](https://app.codacy.com/gh/GuilhermeStracini/hello-world-angularjs/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
