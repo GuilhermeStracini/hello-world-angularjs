@@ -1,6 +1,6 @@
 # Hello World AngularJS
 
-📚 A repository to learn [AngularJS](https://angularjs.org/) and [Angular](https://angular.io/)
+📚 A repository to explore and learn both **[AngularJS](https://angularjs.org/)** and **[Angular](https://angular.io/)** frameworks.
 
 [![wakatime](https://wakatime.com/badge/github/GuilhermeStracini/hello-world-angularjs.svg)](https://wakatime.com/badge/github/GuilhermeStracini/hello-world-angularjs)
 [![Maintainability](https://api.codeclimate.com/v1/badges/0bfc92d34eac8cc0b9de/maintainability)](https://codeclimate.com/github/GuilhermeStracini/hello-world-angularjs/maintainability)
@@ -9,3 +9,78 @@
 [![GitHub license](https://img.shields.io/github/license/GuilhermeStracini/hello-world-angularjs)](https://github.com/GuilhermeStracini/hello-world-angularjs)
 [![GitHub last commit](https://img.shields.io/github/last-commit/GuilhermeStracini/hello-world-angularjs)](https://github.com/GuilhermeStracini/hello-world-angularjs)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/0b0d214a673e4f3f98c3958f12a2d66b)](https://app.codacy.com/gh/GuilhermeStracini/hello-world-angularjs/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+
+---
+
+## About
+
+This repository provides a hands-on introduction to two of the most widely-used front-end frameworks:
+
+- **AngularJS**: A JavaScript-based framework for building dynamic web applications.
+- **Angular**: A modern TypeScript-based framework for building scalable, maintainable, and performance-focused web applications.
+
+---
+
+## Features
+
+- **AngularJS Examples**: Explore the basic concepts like directives, controllers, and two-way data binding.
+- **Angular Examples**: Learn components, modules, services, and reactive programming.
+- **Side-by-Side Comparison**: Understand the differences between AngularJS and Angular.
+
+---
+
+## Prerequisites
+
+1. **Node.js**: Download and install [Node.js](https://nodejs.org/) (LTS version recommended).
+2. **Angular CLI**: For Angular examples, install Angular CLI:
+   ```bash
+   npm install -g @angular/cli
+   ```
+
+---
+
+## Getting Started
+
+### AngularJS
+
+1. Navigate to the `angularjs` folder.
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the development server:
+   ```bash
+   npm start
+   ```
+
+### Angular
+
+1. Navigate to the `angular` folder.
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the Angular application:
+   ```bash
+   ng serve
+   ```
+
+---
+
+## Resources
+
+- [AngularJS Documentation](https://docs.angularjs.org/)
+- [Angular Documentation](https://angular.io/docs)
+- [Angular CLI Get Started Guide](https://angular.io/cli)
+
+---
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE).
+
+---
+
+## Contributing
+
+Feel free to contribute to this project by opening issues or submitting pull requests to enhance the examples.
